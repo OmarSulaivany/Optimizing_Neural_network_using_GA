@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Optimizing_Neural_network_using_GA", "Optimizing_Neural_network_using_GA.vcxproj", "{A5B5F5BE-333C-4AC7-9EE0-44BB4D765FC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5B5F5BE-333C-4AC7-9EE0-44BB4D765FC4}.Debug|x64.ActiveCfg = Debug|x64
+		{A5B5F5BE-333C-4AC7-9EE0-44BB4D765FC4}.Debug|x64.Build.0 = Debug|x64
+		{A5B5F5BE-333C-4AC7-9EE0-44BB4D765FC4}.Debug|x86.ActiveCfg = Debug|Win32
+		{A5B5F5BE-333C-4AC7-9EE0-44BB4D765FC4}.Debug|x86.Build.0 = Debug|Win32
+		{A5B5F5BE-333C-4AC7-9EE0-44BB4D765FC4}.Release|x64.ActiveCfg = Release|x64
+		{A5B5F5BE-333C-4AC7-9EE0-44BB4D765FC4}.Release|x64.Build.0 = Release|x64
+		{A5B5F5BE-333C-4AC7-9EE0-44BB4D765FC4}.Release|x86.ActiveCfg = Release|Win32
+		{A5B5F5BE-333C-4AC7-9EE0-44BB4D765FC4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A25905A1-BF63-496E-A356-E2A06B658D2E}
+	EndGlobalSection
+EndGlobal
